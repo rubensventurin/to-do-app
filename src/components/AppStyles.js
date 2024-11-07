@@ -10,8 +10,8 @@ export const styles = StyleSheet.create({
   pageTitle: {
     marginBottom: 35,
     paddingHorizontal: 15,
-    fontSize: 54,
-    fontFamily: 'SF-Pro-Bold'
+    fontSize: 50,
+    fontWeight: 'bold',
   },
   separator: {
     marginHorizontal: 10,
@@ -26,9 +26,8 @@ export const styles = StyleSheet.create({
   listTitle: {
     marginBottom: 25,
     paddingHorizontal: 15,
-    fontSize: 41,
+    fontSize: 35,
     fontWeight: '500',
-    fontFamily: 'SF-Pro-Regular'
   },
   emptyListText: {
     paddingTop: 10,
@@ -37,6 +36,5 @@ export const styles = StyleSheet.create({
     fontSize: 15,
     lineHeight: 20,
     color: '#737373',
-    fontFamily: 'SF-Pro-Regular'
   },
 });
