@@ -1,16 +1,16 @@
-# To Do (React Native)
+# To Do App
 
 <p align="center">
-  <img src="doc/screenshot.png" width="300" alt="App Screenshot">
+  <img src="doc/screenshot.png" width="300" alt="Captura de Tela do App">
 </p>
 
-## About the Project
+## Sobre o Projeto
 
-React Native To Do application created for learning purposes.
+Aplicativo de Lista de Tarefas em React Native criado para fins de aprendizado.
 
-You can add tasks, delete them and mark as done.
+Você pode adicionar tarefas, excluí-las e marcá-las como concluídas.
 
-### Built With
+### Construído com
 
 - Expo
 - React Native
